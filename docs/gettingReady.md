@@ -2,10 +2,10 @@
 icon: lucide/book-check
 ---
 
-# Preparing your environement
+# Preparing your environment
 
 For simplicity we made a server that is self-hosted and uses a client with exposed resources.
-This is useful in case you only care about adding content to the client and need a working environement to test.
+This is useful in case you only care about adding content to the client and need a working environment to test.
 [MEGA](https://mega.nz/folder/z0RVQBYA#cPt_zIyHQc4az75CVRyg2A) [Archive](https://archive.org/download/s4lgameclientarchives/S4%20League%20Game%20Client%20Archive/Season%208(EU%20v1267)/Standalone%20Server%2BClient%20%20Season%208%20(EU%20v1267).zip)
 
 These are the differences with a vanilla client and the original server code from S8:
