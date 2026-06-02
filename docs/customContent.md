@@ -1,8 +1,9 @@
 ---
-icon: lucide/badge-question-mark
+icon: lucide/pencil
 ---
 
-# OK, HOW DO ADD MY CUSTOM CONTENT:
+# Adding custom content
+
 @shanzenos (thanks a lot) did a bunch of video tutorials explaining what stuff you can add and what files need to be modified:
 https://www.youtube.com/playlist?list=PLZNZEiGC9J3plPl8EX22MaWzh3s2RTYOL
 

@@ -44,6 +44,8 @@ Copyright &copy; 2026 eSper devS contributors
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
+
+# Name is grabbed from the title
 nav = [
 	{ "Welcome" = "index.md" },
 	{ "Modding the game" = [
@@ -51,13 +53,10 @@ nav = [
      "gettingReady.md",
      "customContent.md"
 	 ]},
-	{ "Discord" = "https://discord.gg/qzvdrDRrgD"},
+	{ "Discord" = { link = "https://discord.gg/qzvdrDRrgD", icon = "lucide/bot" } },
 ]
 
-#    { "Welcome" = "index.md" },
-#    { "Guide" = "guide.md" },
-#    { "Getting Ready" = "gettingReady.md" },
-#    { "Adding Custom Content" = "customContent.md" },
+# For icons check https://zensical.org/docs/authoring/icons-emojis/
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of

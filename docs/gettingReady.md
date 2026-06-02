@@ -1,8 +1,8 @@
 ---
-icon: lucide/badge-question-mark
+icon: lucide/book-check
 ---
 
-# Getting ready:
+# Preparing your environement
 
 For simplicity we made a server that is self-hosted and uses a client with exposed resources.
 This is useful in case you only care about adding content to the client and need a working environement to test.

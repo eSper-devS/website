@@ -3,7 +3,7 @@ icon: lucide/badge-question-mark
 ---
 
 
-# Guides and tools for development of content for S4 League
+# Base Guide
 
 First you are gonna need access to the resources, it is recommended to use a Season 8 client, there are clients newer than this one (S10) but the current open source server is only compatible with season 8 clients, that is why it is recommended to use that version, S10 only has a bunch of feature most people don't care about, aside from new skins so it isn't 100% necessary unless you want those.
 
