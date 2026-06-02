@@ -53,7 +53,6 @@ nav = [
      "gettingReady.md",
      "customContent.md"
 	 ]},
-	{ "Discord" = "https://discord.gg/qzvdrDRrgD"},
 ]
 
 # For icons check https://zensical.org/docs/authoring/icons-emojis/
@@ -312,6 +311,14 @@ toggle.name = "Switch to dark mode"
 #[[project.extra.social]]
 #icon = "fontawesome/brands/github"
 #link = "https://github.com/user/repo"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/discord"
+link = "https://discord.gg/qzvdrDRrgD"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/eSper-devS"
 
 # ----------------------------------------------------------------------------
 # In this section you can configure the Markdown extensions that are used when
