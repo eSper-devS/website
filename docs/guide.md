@@ -2,16 +2,11 @@
 icon: lucide/badge-question-mark
 ---
 
-# Guide
-
-
-
-
-
 
 # Guides and tools for development of content for S4 League
 
 First you are gonna need access to the resources, it is recommended to use a Season 8 client, there are clients newer than this one (S10) but the current open source server is only compatible with season 8 clients, that is why it is recommended to use that version, S10 only has a bunch of feature most people don't care about, aside from new skins so it isn't 100% necessary unless you want those.
+
 
 ## Checking the files or getting the resources out:
 You have 3 options for this:
@@ -34,33 +29,6 @@ https://ia601007.us.archive.org/0/items/s4lgameclientarchives/S4%20League%20Game
 You can check the other versions on the following link:
 https://archive.org/download/s4lgameclientarchives/S4%20League%20Game%20Client%20Archive/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 3D MODEL FILES / SCNs:
 S4 League uses a proprietary format for all the 3d models, any file that has the .scn format either contains a straight up model or stuff(animations) for the armature of the characters.
 
@@ -73,30 +41,6 @@ How to use instructions:
 https://github.com/Aeven-Dev/UnityScnTool/wiki/How-to-use!--%E2%9D%A4%EF%B8%8F
 
 ### There are other users making different tools for map viewing and other stuff, will update if these end up releasing
-
-
-
-
-
-## OK, HOW DO ADD MY CUSTOM CONTENT:
-@shanzenos  (thanks a lot btw) did a bunch of video tutorials explaining what stuff you can add and what files need to be modified:
-https://www.youtube.com/playlist?list=PLZNZEiGC9J3plPl8EX22MaWzh3s2RTYOL
-
-It contains tutorials about how to add:
-Music
-Custom Maps
-Weapons
-Weapon Skins
-Costumes\Items
-
-Shanz wrote tutorials too:
-https://gamebanana.com/tuts/cats/2582
-
-This one explains the different folders and files that you can find inside the game, since you can mod beyond what the previous tutorials explain, but it is more complex:
-https://gamebanana.com/tuts/19512
-
-
-
 
 
 ## HOW TO TEST STUFF INGAME:
@@ -114,7 +58,4 @@ https://github.com/eSper-devS/item_parser
 
 
 
-
-
-
-If you have any questions or problems feel free to ask in eSper devS
+If you have any questions or problems feel free to ask in eSper devS discord server
