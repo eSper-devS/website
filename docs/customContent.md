@@ -6,8 +6,7 @@ icon: lucide/badge-question-mark
 @shanzenos (thanks a lot) did a bunch of video tutorials explaining what stuff you can add and what files need to be modified:
 https://www.youtube.com/playlist?list=PLZNZEiGC9J3plPl8EX22MaWzh3s2RTYOL
 
-It contains tutorials about how to add:
-Music
+Music:
 <iframe
   width="800"
   height="450"
@@ -16,7 +15,8 @@ Music
   frameborder="0"
   allowfullscreen>
 </iframe>
-Custom Maps
+
+Custom Maps:
 <iframe
   width="800"
   height="450"
@@ -25,7 +25,8 @@ Custom Maps
   frameborder="0"
   allowfullscreen>
 </iframe>
-Weapons
+
+Weapons:
 <iframe
   width="800"
   height="450"
@@ -34,7 +35,8 @@ Weapons
   frameborder="0"
   allowfullscreen>
 </iframe>
-Weapon Skins
+
+Weapon Skins:
 <iframe
   width="800"
   height="450"
@@ -43,7 +45,8 @@ Weapon Skins
   frameborder="0"
   allowfullscreen>
 </iframe>
-Costumes\Items
+
+Costumes\Items:
 <iframe
   width="800"
   height="450"
@@ -53,8 +56,10 @@ Costumes\Items
   allowfullscreen>
 </iframe>
 
-Shanz wrote tutorials too:
+Written versions here:
+
 https://gamebanana.com/tuts/cats/2582
+
 
 This one explains the different folders and files that you can find inside the game, since you can mod beyond what the previous tutorials explain, but it is more complex:
 https://gamebanana.com/tuts/19512

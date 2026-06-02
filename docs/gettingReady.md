@@ -9,6 +9,7 @@ This is useful in case you only care about adding content to the client and need
 [MEGA](https://mega.nz/folder/z0RVQBYA#cPt_zIyHQc4az75CVRyg2A) [Archive](https://archive.org/download/s4lgameclientarchives/S4%20League%20Game%20Client%20Archive/Season%208(EU%20v1267)/Standalone%20Server%2BClient%20%20Season%208%20(EU%20v1267).zip)
 
 These are the differences with a vanilla client and the original server code from S8:
+
 * Resources exposed, and the server uses those exact same resources if the client is placed in the "Game" folder
 * Can modify most resources on the fly, so no need to restart the client that frequently, only for weapons .lua files 
 * No mission pop up on log in
@@ -23,4 +24,8 @@ These are the differences with a vanilla client and the original server code fro
 * Can enter any type of gamemode alone
 * No AFK kick
 
-For more info this is the repository: https://github.com/eSper-devS/NetspherePirateShip
+
+
+For more info refer to the repository: 
+
+https://github.com/eSper-devS/NetspherePirateShip

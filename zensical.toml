@@ -46,10 +46,18 @@ Copyright &copy; 2026 eSper devS contributors
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
 	{ "Welcome" = "index.md" },
-	{ "Guide" = "guide.md" },
-	{ "Getting Ready" = "gettingReady.md" },
-	{ "Adding Custom Content" = "customContent.md" },
+	{ "Modding the game" = [
+	 "guide.md",
+     "gettingReady.md",
+     "customContent.md"
+	 ]},
+	{ "Discord" = "https://discord.gg/qzvdrDRrgD"},
 ]
+
+#    { "Welcome" = "index.md" },
+#    { "Guide" = "guide.md" },
+#    { "Getting Ready" = "gettingReady.md" },
+#    { "Adding Custom Content" = "customContent.md" },
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
