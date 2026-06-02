@@ -53,7 +53,7 @@ nav = [
      "gettingReady.md",
      "customContent.md"
 	 ]},
-	{ "Discord" = { link = "https://discord.gg/qzvdrDRrgD", icon = "lucide/bot" } },
+	{ "Discord" = "https://discord.gg/qzvdrDRrgD"},
 ]
 
 # For icons check https://zensical.org/docs/authoring/icons-emojis/
