@@ -2,7 +2,7 @@
 icon: lucide/book-check
 ---
 
-# 3D Model files / SCNs:
+# 3D Model files / SCNs
 
 S4 League uses a proprietary format for all the 3d models, any file that has the .scn format either contains a straight up model or assets(animations) for the armature of the characters.
 

@@ -2,7 +2,7 @@
 icon: lucide/book-check
 ---
 
-# Checking the files:
+# Checking the files
 
 You have three options for this:
 

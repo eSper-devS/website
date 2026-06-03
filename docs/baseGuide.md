@@ -18,7 +18,7 @@ The last official client is S10, the difference between S8 and S10 is only has a
 
 
 
-### There are other users making different tools for map viewing and other stuff, will update if these end up releasing
+**There are other users making different tools for map viewing and other stuff, will update if these end up releasing**
 
 
 ## Checking out the game resources:
@@ -32,7 +32,9 @@ There are specific guides for each type of item that you can add in: [Adding cus
 Each type of content has a video, but if you want to test something quickly you can always replace an existing file of the same type. Keep in mind this is only useful for quick tests, since replacing old content is obviously not recommended the proper way to share your custom content is providing the necessary info explained in the respective video.
 
 
-## Making new models for maps, weapon models and clothes:
+## Making models
+For how to make models for maps, weapon models and clothes check:
+
 [3D Model files / SCNs](3dModelsGuide.md)
 
 If you have any questions or problems feel free to ask in eSper devS discord server

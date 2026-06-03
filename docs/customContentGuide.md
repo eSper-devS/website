@@ -6,7 +6,7 @@ icon: lucide/pencil
 
 
 
-## HOW TO TEST STUFF IN-GAME:
+## How to test custom content
 
 If you are not using our version of the S8 server, have already added items and you want them to show up in the game they do need to be in the database, you can use this script to fill with every item inside your files:
 https://github.com/eSper-devS/item_parser
@@ -14,7 +14,7 @@ https://github.com/eSper-devS/item_parser
 @shanzenos (thanks a lot) did a bunch of video tutorials explaining what stuff you can add and what files need to be modified:
 https://www.youtube.com/playlist?list=PLZNZEiGC9J3plPl8EX22MaWzh3s2RTYOL
 
-Music:
+### Music
 <iframe
   width="800"
   height="450"
@@ -24,7 +24,7 @@ Music:
   allowfullscreen>
 </iframe>
 
-Custom Maps:
+### Custom Maps
 <iframe
   width="800"
   height="450"
@@ -34,7 +34,7 @@ Custom Maps:
   allowfullscreen>
 </iframe>
 
-Weapons:
+### Weapons
 <iframe
   width="800"
   height="450"
@@ -44,7 +44,7 @@ Weapons:
   allowfullscreen>
 </iframe>
 
-Weapon Skins:
+### Weapon Skins
 <iframe
   width="800"
   height="450"
@@ -54,7 +54,7 @@ Weapon Skins:
   allowfullscreen>
 </iframe>
 
-Costumes\Items:
+### Costumes\Items
 <iframe
   width="800"
   height="450"
@@ -64,7 +64,7 @@ Costumes\Items:
   allowfullscreen>
 </iframe>
 
-Written versions here:
+## Written versions 
 
 https://gamebanana.com/tuts/cats/2582
 
@@ -73,5 +73,6 @@ This one explains the different folders and files that you can find inside the g
 https://gamebanana.com/tuts/19512
 
 
-## For how to make the models for new maps, weapon models or clothes check:
+## Making models
+For how to make the models for new maps, weapon models or clothes check:
 [3D Model files / SCNs](3dModelsGuide.md)
