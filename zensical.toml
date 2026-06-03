@@ -49,11 +49,26 @@ Copyright &copy; 2026 eSper devS contributors
 nav = [
 	{ "Welcome" = "index.md" },
 	{ "Modding the game" = [
-	 "baseGuide.md",
-	 "serverGuide.md",
-	 "clientGuide.md",
-     "customContentGuide.md",
-     "3dModelsGuide.md",
+	 "modding/start.md",
+	 "modding/server.md",
+	 "modding/client.md",
+     "modding/customContent.md",
+     "modding/3dModels.md",
+	 ]},
+	 { "WIP Tools" = [
+	 "tools/dataExtractor.md",
+	 "tools/browsingFiles.md",
+	 "tools/scnTool.md",
+	 "tools/shopEditor.md",
+	 ]},
+	 { "WIP Tutorials" = [
+	 "tutorials/filesystem.md",
+	 "tutorials/textures.md",
+	 "tutorials/3dModels.md",
+	 "tutorials/animations.md",
+	 "tutorials/lua.md",
+	 "tutorials/seqFiles.md",
+	 "tutorials/maps.md",
 	 ]},
 ]
 
